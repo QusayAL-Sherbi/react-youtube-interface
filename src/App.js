@@ -1,7 +1,13 @@
+import Navbar from './components/Navbar/Navbar.jsx';
 
 function App() {
   return (
-    <h1>Hello YouTube!</h1>
+    <>
+      <Navbar />
+      <div className='container'>
+        <h1>Hello YouTube!</h1>
+      </div>
+    </>
   );
 }
 

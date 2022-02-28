@@ -1,0 +1,5 @@
+@import './global-rules';
+
+@use './variables/colors' as color;
+
+@import './components/navbar/navbar';

@@ -3,6 +3,7 @@ import ReactDOM from 'react-dom';
 import App from './App';
 import 'normalize.css';
 import './SCSS/main.scss';
+import 'bootstrap-icons/font/bootstrap-icons.css';
 
 ReactDOM.render(
   <React.StrictMode>
